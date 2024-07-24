@@ -1,3 +1,6 @@
+text
+remote_theme: poole/lanyon
+
 # Setup
 title:               Lanyon
 tagline:             'A Jekyll theme'
