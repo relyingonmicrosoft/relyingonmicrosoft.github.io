@@ -1,5 +1,4 @@
-# blog templates and examples (from lanyon) that we don't actually want to publish
-
-2020-04-01-whats-jekyll.md
-2020-04-02-example-content.md
-2020-04-03-introducing-lanyon.md
+# Blog templates and examples (from Lanyon) that we don't want to publish
+_posts/2020-04-01-whats-jekyll.md
+_posts/2020-04-02-example-content.md
+_posts/2020-04-03-introducing-lanyon.md
