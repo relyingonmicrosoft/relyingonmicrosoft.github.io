@@ -8,7 +8,9 @@ layout: default
   {{ content }}
 </div>
 
-{% include utterances_comments.html %}
+{% if page.comments != false %}
+  {% include utterances_comments.html %}
+{% endif %}
 
 {% if site.related_posts.size >= 1 %}
 <div class="related">
