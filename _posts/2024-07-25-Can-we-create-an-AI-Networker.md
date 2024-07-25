@@ -138,5 +138,5 @@ Watch this space as we embark on this exciting journey into the world of autonom
 
 ```markdown
 
-This format will help you clearly communicate your objectives, progress, and results, while also providing a visual representation of your journey.
+This format will help you clearly communicate your objectives, progress, and results, while also providing a visual representation of your journey. [he says to himself ;-)]
 ```
