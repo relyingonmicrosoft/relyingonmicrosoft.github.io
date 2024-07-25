@@ -53,7 +53,8 @@ Hello there! Are you interested in creating your very own website but feel overw
    - [Another Interest]
    - [Yet Another Interest]
 
-   Feel free to [contact me](mailto:youremail@example.com) if you'd like to connect! ```
+   Feel free to [contact me](mailto:youremail@example.com) if you'd like to connect!
+   ```
 
 3. Scroll down and click "Commit changes".
 
