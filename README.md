@@ -1,3 +1,11 @@
+# edtec
+
+edtec is a place for learning.
+
+Interests include BSV (bitcoin satoshi's vision), AI (perplexity, merlin, open AI, etc.), Kaggle (specifically the ARC competition), anything to do with markets (traditionally investment banking and fund management, more recently NFTs, crypto and polymarket).
+
+If there are any topics you would like me to do som reading, learnign and writing on, just hit me up. Take it easy, A 
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
@@ -122,9 +130,9 @@ Lanyon has two branches, but only one is used for active development.
 
 ## Author
 
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
+**Adam Rudd**
+- <https://github.com/relyingonmicrosoft>
+- <https://twitter.com/adamedtec>
 
 
 ## License
