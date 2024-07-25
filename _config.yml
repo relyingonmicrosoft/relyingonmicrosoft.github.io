@@ -22,3 +22,11 @@ plugins:
 # Custom vars
 version:             1.1.0
 google_analytics_id: GOOGLE_ANALYTICS_ID
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
