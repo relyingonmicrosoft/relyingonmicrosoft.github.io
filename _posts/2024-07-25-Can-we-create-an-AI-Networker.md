@@ -1,12 +1,11 @@
 ---
 layout: post
+title: Can I Create an Autonomous AI "Networker"?
 date: 2024-07-25
 categories: [AI, Networking, Automation]
 ---
 
-# Can I Create an Autonomous AI "Networker"?
-
-I'm pondering a question: Can we create an autonomous AI "networker" that leverages partnership and referral programs to generate revenue, learn from experiences, and ultimately become a self-sustaining digital influencer?
+While researching how to make money from affiliate programs, again, tahnks to help from Perplexity/Open AI, I find myself pondering a curious question: Can we create an autonomous AI "networker" that leverages partnership and referral programs to generate revenue, learn from experiences, and ultimately become a self-sustaining digital influencer?
 
 ## Objectives
 
