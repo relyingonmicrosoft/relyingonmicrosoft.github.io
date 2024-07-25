@@ -3,6 +3,7 @@ layout: post
 title: "How does MoneySuperMarket.com legally enforce its commission/referral/affiliate revenue?"
 date: 2024-07-25
 categories: [Finance, Affiliate Marketing, Legal]
+comments: true
 ---
 
 Hey there, savvy consumers! Today, we're diving into the fascinating world of price comparison websites, specifically MoneySuperMarket.com. You might be surprised to learn just how much of a cut they get from the deals we see on their platform – and how this might affect the prices we pay.
