@@ -62,3 +62,9 @@ Does this mean we should avoid comparison sites altogether? Not necessarily. The
 3. Understanding that the convenience of comparison sites comes with a cost, which is ultimately factored into the prices we pay
 
 In the end, knowledge is power. By understanding how these sites work and make money, we can make more informed decisions about our purchases. So next time you use MoneySuperMarket or any other comparison site, remember - you're not just comparing prices, you're navigating a complex web of commissions and partnerships. Happy comparing, and may the best deals be ever in your favor!
+
+## Share Your Thoughts
+
+Have you had experiences with MoneySuperMarket or other comparison sites? We'd love to hear your thoughts and experiences in the comments below!
+
+## Important edit: you may notice that the articles linked in the story don't exist. Turns out we can't trust what we learn from AI just yet. Point may be valid, but the evidence is not!
