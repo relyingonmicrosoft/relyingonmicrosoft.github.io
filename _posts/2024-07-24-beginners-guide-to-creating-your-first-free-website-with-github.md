@@ -83,20 +83,20 @@ Hello there! Are you interested in creating your very own website but feel overw
    - Commit the change
 2. In your `index.md` file, add the image using this format:
 
-'''markdown
+```markdown
    ![Alt text for image](image-filename.jpg)
- '''
+ ```
 
 ## Step 8: Adding a Table (Optional)
 
 To add a table to your `index.md` file, use this format:
 
-'''markdown
+```markdown
 | Header 1 | Header 2 |
 |----------|----------|
 | Row 1, Col 1 | Row 1, Col 2 |
 | Row 2, Col 1 | Row 2, Col 2 |
- '''
+ ```
 
 Remember, each time you make changes, wait a few minutes for your site to update. 
 
