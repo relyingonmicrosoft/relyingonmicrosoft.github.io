@@ -4,7 +4,7 @@ remote_theme: poole/lanyon
 title:               Edtec
 tagline:             'Learning to earn alongside AI'
 description:         'A learning blog. And hopefully one day an earning blog. Made by <a href="https://twitter.com/adamedtec" target="_blank">@adamedtec</a>.'
-url:                 http://edtec.ai
+url:                 http://relyingonmicrosoft.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
