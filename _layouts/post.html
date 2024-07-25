@@ -8,6 +8,8 @@ layout: default
   {{ content }}
 </div>
 
+{% include utterances_comments.html %}
+
 {% if site.related_posts.size >= 1 %}
 <div class="related">
   <h2>Related posts</h2>
@@ -25,3 +27,5 @@ layout: default
   </ul>
 </div>
 {% endif %}
+
+
