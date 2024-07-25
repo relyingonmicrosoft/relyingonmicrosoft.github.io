@@ -82,8 +82,10 @@ Hello there! Are you interested in creating your very own website but feel overw
    - Drag and drop your image or click "choose your files"
    - Commit the change
 2. In your `index.md` file, add the image using this format:
-   ![Alt text for image](image-filename.jpg)
 
+'''markdown
+   ![Alt text for image](image-filename.jpg)
+ '''
 
 ## Step 8: Adding a Table (Optional)
 
