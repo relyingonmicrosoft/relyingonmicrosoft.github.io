@@ -41,11 +41,13 @@ Hello there! Are you interested in creating your very own website but feel overw
    ```markdown
    # Welcome to My Website
 
-   Hello! I'm [Your Name]. This is my first website created using GitHub Pages.
+   Hello! I'm [Your Name].
+   This is my first website created using GitHub Pages.
 
    ## About Me
 
-   I'm learning how to create websites and I'm excited to share my journey with you.
+   I'm learning how to create websites and
+   I'm excited to share my journey with you.
 
    ## My Interests
 
@@ -53,7 +55,9 @@ Hello there! Are you interested in creating your very own website but feel overw
    - [Another Interest]
    - [Yet Another Interest]
 
-   Feel free to [contact me](mailto:youremail@example.com) if you'd like to connect!
+   Feel free to [contact me](mailto:youremail@example.com)
+   if you'd like to connect!
+
    ```
 
 3. Scroll down and click "Commit changes".
@@ -71,7 +75,7 @@ Hello there! Are you interested in creating your very own website but feel overw
 3. Click the pencil icon to edit.
 4. Make your changes, then scroll down and click "Commit changes".
 
-## Adding Images (Optional)
+## Step 7: Adding Images (Optional)
 
 1. To add an image, first upload it to your repository:
    - In your repository, click "Add file" > "Upload files"
@@ -81,17 +85,20 @@ Hello there! Are you interested in creating your very own website but feel overw
    ![Alt text for image](image-filename.jpg)
 
 
-## Adding a Table (Optional)
+## Step 8: Adding a Table (Optional)
 
 To add a table to your `index.md` file, use this format:
 
+'''markdown
 | Header 1 | Header 2 |
 |----------|----------|
 | Row 1, Col 1 | Row 1, Col 2 |
 | Row 2, Col 1 | Row 2, Col 2 |
+ '''
 
+Remember, each time you make changes, wait a few minutes for your site to update. 
 
-Remember, each time you make changes, wait a few minutes for your site to update. Congratulations! You've created your very own website. As you become more comfortable, you can explore more advanced features and customizations. Happy web designing!
-
-You can now copy this content into a new file named `YYYY-MM-DD-beginners-guide-to-github-pages.md` in the `_posts` directory of your GitHub repository, replacing `YYYY-MM-DD` with the current date. This will create a new blog post with the content formatted correctly.
+Congratulations! You've created your very own website. 
+As you become more comfortable, you can explore more advanced features and customizations. 
+Happy web designing!
 
