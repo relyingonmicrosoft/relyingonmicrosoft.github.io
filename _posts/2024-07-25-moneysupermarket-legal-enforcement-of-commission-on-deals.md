@@ -69,3 +69,5 @@ In the end, knowledge is power. By understanding how these sites work and make m
 Have you had experiences with MoneySuperMarket or other comparison sites? We'd love to hear your thoughts and experiences in the comments below!
 
 ## Important edit: you may notice that the articles linked in the story don't exist. Turns out we can't trust what we learn from AI just yet. Point may be valid, but the evidence is not!
+
+
