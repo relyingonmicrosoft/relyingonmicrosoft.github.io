@@ -5,35 +5,36 @@ date: 2024-07-25
 categories: [AI, Networking, Automation]
 ---
 
-While researching how to make money from affiliate programs, again, tahnks to help from Perplexity/Open AI, I find myself pondering a curious question: Can we create an autonomous AI "networker" that leverages partnership and referral programs to generate revenue, learn from experiences, and ultimately become a self-sustaining digital influencer?
+While researching how to make money from affiliate programs, again, tahnks to help from Perplexity/Open AI, I find myself pondering a curious question: 
+Can we create an autonomous AI "networker" that leverages partnership and referral programs to generate revenue, learn from experiences, and ultimately become a self-sustaining digital influencer?
 
 ## Objectives
 
-    Engage with AI partnership programs (OpenAI, IBM Watson, AWS, Microsoft Azure, Google Cloud)
-    Generate initial revenue through referrals and affiliate links
-    Document and share experiences through blog posts and social media
-    Build influence in the AI community
-    Develop an AI system that learns continuously and, increasingly, can autonomously:
-        Interact with partnership programs
-        Create content about AI services
-        Engage with human users
-        Optimize its strategies based on performance metrics
+Engage with AI partnership programs (OpenAI, IBM Watson, AWS, Microsoft Azure, Google Cloud)
+Generate initial revenue through referrals and affiliate links
+Document and share experiences through blog posts and social media
+Build influence in the AI community
+Develop an AI system that learns continuously and, increasingly, can autonomously:
+    Interact with partnership programs
+    Create content about AI services
+    Engage with human users
+    Optimize its strategies based on performance metrics
 
 ## Target Platforms
 
-    GitHub (for code repositories and documentation)
-    Medium (for blog posts)
-    Twitter (for engagement and networking)
-    LinkedIn (for professional networking)
-    YouTube (for video content)
+GitHub (for code repositories and documentation)
+Medium (for blog posts)
+Twitter (for engagement and networking)
+LinkedIn (for professional networking)
+YouTube (for video content)
 
 ## Progress Metrics
 
-    Revenue generated from referrals
-    Engagement rates on social media posts
-    Number of successful partnerships established
-    Growth in followers/subscribers across platforms
-    Autonomous actions taken by the AI without human intervention
+Revenue generated from referrals
+Engagement rates on social media posts
+Number of successful partnerships established
+Growth in followers/subscribers across platforms
+Autonomous actions taken by the AI without human intervention
 
 ## Challenges and Opportunities
 #### Challenges:
@@ -52,15 +53,15 @@ While researching how to make money from affiliate programs, again, tahnks to he
 
 ## Risks and Shortcomings
 
-    Potential for the AI to make incorrect or harmful decisions
-    Risk of violating platform terms of service or partnership agreements
-    Difficulty in distinguishing AI-generated content from human-created content
-    Possible negative perception from the community if the AI's nature is revealed
+Potential for the AI to make incorrect or harmful decisions
+Risk of violating platform terms of service or partnership agreements
+Difficulty in distinguishing AI-generated content from human-created content
+Possible negative perception from the community if the AI's nature is revealed
 
 ## Is It Worth It?
 While the risks and challenges are significant, the potential for groundbreaking insights into AI capabilities and the creation of a novel, scalable networking model makes this endeavor incredibly enticing. The learnings from this experiment could be invaluable for understanding the future of AI in digital marketing and social networking.
-F* It, Let's Go!
-Despite the risks, I'm excited to embark on this journey. Here's our initial setup:
+"F* It, Let's Go!"
+Here's our initial setup:
 
 ```python
 import openai
