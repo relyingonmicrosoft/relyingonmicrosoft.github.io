@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Can I Create an Autonomous AI 'Networker'?"
 date: 2024-07-25
 categories: [AI, Networking, Automation]
 ---
